@@ -1,4 +1,4 @@
-SpringTrader getting started guide is available under github wiki
+SpringTrader getting started guide is available under github Wiki
 ==============================================================
 
 * See [Application Overview](https://github.com/vFabric/springtrader/wiki/Application-Overview)
